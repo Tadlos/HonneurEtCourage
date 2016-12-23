@@ -10,6 +10,7 @@
 	</head>
 	<body>
 		// Notre liste de personnages
+		// Ceci est un 2e commentaire pour le push de ce fichier !
 		<h1>Nos personnages</h1>
 		
 		<?php
