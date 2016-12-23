@@ -9,7 +9,9 @@
 		<meta nom="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 	</head>
 	<body>
+		// Notre liste de personnages
 		<h1>Nos personnages</h1>
+		
 		<?php
 			include("class/personnage.class.php");
 			$perso1 = new guerrier('Jack');
